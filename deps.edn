@@ -1,0 +1,4 @@
+{:paths   ["src"]
+ :deps    {org.clojure/clojure {:mvn/version "1.12.0-alpha5"}
+           com.datomic/local   {:mvn/version "1.0.276"}}
+ :aliases {}}
